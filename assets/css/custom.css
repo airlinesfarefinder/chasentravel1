@@ -100,8 +100,8 @@ h6 {
 }
 
 #nav .inner {
- 
-       background: linear-gradient(21deg, #515359, #454040);
+  background: #000000;
+       /* background: linear-gradient(21deg, #515359, #454040); */
   border-radius: 0px 0px;
 }
 
