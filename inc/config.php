@@ -6,7 +6,7 @@ function config($key)
     static $configuration = [
         'phone_number' => '(877) 694-3693',
         'email_id' => 'info@chasentravel.com',
-        'address' => '1700 Quail Street, Suite 100 Newport Beach, CA 92660',
+        'address' => '52 State St Ste 500, Boston, MA 02109, United States',
         'domain_name' => 'https://chasentravel.com',
     ];
 
