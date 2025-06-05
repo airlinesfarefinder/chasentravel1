@@ -13,17 +13,17 @@
                             <div id="nav_menu" class="menu content">
                                 <ul class="clearfix">
                                     <li>
-                                        <a href="index">
+                                        <a href="index.php">
                                             Home
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="about">
+                                        <a href="about.php">
                                             About Us
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="contact">
+                                        <a href="contact.php">
                                             Contact Us
                                         </a>
                                     </li>

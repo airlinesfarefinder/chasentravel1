@@ -17,13 +17,13 @@
                 </div>
                 <div class="nav">
                     <ul>
-                        <li><a href="index">home</a></li>
-                        <li><a href="about">about us</a></li>
-                        <li><a href="contact">contact us</a></li>
-                        <li><a href="privacy-policy">privacy policy</a></li>
-                        <li><a href="terms-conditions">terms & conditions</a></li>
-                        <li><a href="baggage-policy">Baggage policy</a></li>
-                        <li><a href="cookie-policy">cookie policy</a></li>
+                        <li><a href="index.php">home</a></li>
+                        <li><a href="about.php">about us</a></li>
+                        <li><a href="contact.php">contact us</a></li>
+                        <li><a href="privacy-policy.php">privacy policy</a></li>
+                        <li><a href="terms-conditions.php">terms & conditions</a></li>
+                        <li><a href="baggage-policy.php">Baggage policy</a></li>
+                        <li><a href="cookie-policy.php">cookie policy</a></li>
                     </ul>
                 </div>
             </div>
