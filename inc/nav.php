@@ -5,7 +5,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-3  col-xs-5">
-                            <a href="index">
+                            <a href="index.php">
                                 <div class="logo"></div>
                             </a>
                         </div>
@@ -35,12 +35,26 @@
                                 <ul class="clearfix">
                                     <li class="withicon">
                                         <a href="tel:<?php echo config('phone_number'); ?>">
-                                            <!-- <span class="icon" style="background-image:url('assets/img/24.png')"></span> -->
+                                            <span class="icon"
+                                                style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
                                             <?php echo config('phone_number'); ?>
                                         </a>
                                     </li>
-                                    <li id="nav_toggle" class="icononly" onclick="toggle_nav()">
-                                        <span class="icon" style="background-image:url('assets/img/menu.png')"></span>
+                                    <li style="color:black;" id="nav_toggle" class="icononly" onclick="toggle_nav()">
+                                        <span class="ico" style="background-image:url('assets/img/menu.png');
+                                         
+                                             width: 20px;
+    display: block;
+    height: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+                                         
+                                         
+                                         ">
+
+
+                                        </span>
                                     </li>
                                 </ul>
                             </div>

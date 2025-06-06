@@ -1,7 +1,7 @@
 <div id="travel_banner">
     <a href="tel:<?php echo config('phone_number'); ?>"></a>
-    <div class="head">Flight Booking Support Desk</div>
-    <div class="banner" style="background-image:url('assets/img/travel_banner/banner-phone.jpg')"></div>
+    <div class="head">Travel Support Desk</div>
+    <div class="banner" style="background-image:url('assets/img/travel_banner/banner-phone1.jpg')"></div>
     <div class="featured_lines">
         <div class="line">Hot Deals on Airfare | Last-Minute Travel Offers</div>
         <div class="line">Exclusive Phone-Only Discounts</div>

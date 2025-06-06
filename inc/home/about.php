@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5">
-                <div class="bg" style="background-image:url('assets/img/2149232169.jpg')"></div>
+                <div class="bg" style="background-image:url('assets/img/11.jpg')"></div>
             </div>
             <div class="col-sm-7">
                 <div class="gutter">
@@ -18,7 +18,12 @@
                     <br>
                     <div class="intro">
                         <p>
-We bring you up-to-date travel offers from a wide range of agencies, so you can pick the option that fits your preferences perfectly.  Our search tool exclusively features recommendations from reputable and verified travel providers, guaranteeing trustworthy results and accurate pricing.  Compare prices and insights from multiple agencies with a single quick search. There are no hidden fees or surprise charges — the price shown is exactly what you pay.  To ensure that you get the best deal, we look at both major booking sites and local vendors.                        </p>
+We bring you up-to-date travel offers from a wide range of agencies, 
+so you can pick the option that fits your preferences perfectly. 
+ Our search tool exclusively features recommendations from reputable and verified travel providers,
+  guaranteeing trustworthy results and accurate pricing.  Compare prices and insights from multiple agencies with a single quick search. There are no hidden fees or surprise charges — the price shown is exactly what you pay.  To ensure that you get the best deal, we look at both major booking sites and local vendors.   
+
+</p>
                     </div>
                 </div>
             </div>

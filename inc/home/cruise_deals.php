@@ -15,7 +15,7 @@
         <div class="gutter">
           <div class="item cruise-card">
             <div class="bg"
-              style="background-image:url('assets/img/cruise/carnival-freedom_bow_orientation-right_port_2167.jpg');">
+              style="background-image:url('assets/img/cruise/3-night-bahamas.jpg');">
             </div>
             <div class="overlay-text">3-Night Cruise to Key West & Bahamas</div>
           </div>
@@ -27,7 +27,7 @@
       <div class="col-sm-4">
         <div class="gutter">
           <div class="item cruise-card">
-            <div class="bg" style="background-image:url('assets/img/cruise/-1x-1.webp');"></div>
+            <div class="bg" style="background-image:url('assets/img/cruise/8-night-caribbean.jpg');"></div>
             <div class="overlay-text">8-Night Caribbean Voyage from Galveston</div>
           </div>
           <div class="departure-below">Departs: Sat, May 31, 2025</div>
@@ -39,7 +39,7 @@
         <div class="gutter">
           <div class="item cruise-card">
             <div class="bg"
-              style="background-image:url('assets/img/cruise/IMG_20250116_140306_850_x_567_pixel.webp'); background-position:top;">
+              style="background-image:url('assets/img/cruise/3-night-ensenada.jpg'); background-position:top;">
             </div>
             <div class="overlay-text">3-Night Cruise to Ensenada</div>
           </div>
