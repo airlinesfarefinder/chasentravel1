@@ -95,7 +95,6 @@
         </div>
         <br><br><br>
         <div class="row">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3320.808309457667!2d-117.87221372430015!3d33.66212847330633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcde56d3fb704d%3A0x3cb27cf739de98db!2s1700%20Quail%20St%20%23100%2C%20Newport%20Beach%2C%20CA%2092660%2C%20USA!5e0!3m2!1sen!2sin!4v1749052296985!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-        </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.063503246404!2d-71.0971856!3d42.36248589999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37754b552269b%3A0x883ff6d7e2dd18c5!2s52%20State%20St%20%23500%2C%20Boston%2C%20MA%2002109%2C%20USA!5e0!3m2!1sen!2sin!4v1749215729402!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        </div>
     </div>
 </div>

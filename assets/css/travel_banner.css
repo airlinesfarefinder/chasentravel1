@@ -119,7 +119,7 @@
 }
 
 .blink {
-  animation: blink 1s ease-in-out infinite;
+  /* animation: blink 1s ease-in-out infinite; */
 }
 
 @keyframes blink {
@@ -166,11 +166,11 @@
   padding: 10px;
   font-size: 16px;
   /* background: #CDDC39; */
-  background:#1a1910;
+  background:#000000;
   border-radius: 12px;
   margin: 10px 0;
   padding-left: 40px;
-  color: #aaa5a5;
+  color:  #e9e5e5;;
 }
 
 #travel_banner .pills li::after {
@@ -180,7 +180,7 @@
   left: 15px;
   width: 12px;
   height: 12px;
-  border: 2px solid #133330;
+  border: 2px solid #0577e9;
   border-left: 0;
   border-top: 0;
   transform: rotate(-45deg);

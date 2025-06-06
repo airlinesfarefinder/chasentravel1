@@ -1,6 +1,6 @@
 <div id="banner">
     <div class="container">
-        <div class="row">
+        <!-- <div class="row">
             <div class="head">
                 <div class="inner">
                     <h2>Reserve Your Vacations at best offers</h2>
@@ -8,7 +8,7 @@
                     <h3>talk to expert now</h3>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="row">
             <div class="search">
                 <span class="title">Flights</span>
