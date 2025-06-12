@@ -11,7 +11,7 @@
         </div> -->
         <div class="row">
             <div class="search">
-                <span class="title">Flights</span>
+                <span class="title">Cruise</span>
                 <form action="">
                     <div class="container-fluid">
                         <div class="row">
@@ -19,7 +19,7 @@
                                 <div class="gutter">
                                     <div class="input_wrapper">
                                         <label for="">From</label>
-                                        <input class="input" type="text" placeholder="any airport">
+                                        <input class="input" type="text" placeholder="cruise port">
                                     </div>
                                 </div>
                             </div>
@@ -27,7 +27,7 @@
                                 <div class="gutter">
                                     <div class="input_wrapper">
                                         <label for="">To</label>
-                                        <input class="input" type="text" placeholder="any airport">
+                                        <input class="input" type="text" placeholder="cruise port">
                                     </div>
                                 </div>
                             </div>

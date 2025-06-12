@@ -1,6 +1,6 @@
 <div id="travel_banner">
     <a href="tel:<?php echo config('phone_number'); ?>"></a>
-    <div class="head">Travel Support Desk</div>
+    <div class="head">Cruise Support Desk</div>
     <div class="banner" style="background-image:url('assets/img/travel_banner/banner-phone1.jpg')"></div>
     <div class="featured_lines">
         <div class="line">Reservations | Changes | Cancellations</div>
@@ -22,7 +22,7 @@
     </div>
     <ul class="pills">
         <li>All-Inclusive Holiday Deals</li>
-        <li>Save up to 45% on Airfare</li>
+        <li>Save up to 45% on Cruise Travel</li>
         <li>Land Adventures & Local Tours</li>
         <li>24/7 Customer Care</li>
         <li>Easy & Flexible Payments</li>
