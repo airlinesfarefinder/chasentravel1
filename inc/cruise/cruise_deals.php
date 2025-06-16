@@ -1,3 +1,16 @@
+<style>
+
+.btn-gradient-2 {
+  background: linear-gradient(white, white) padding-box,
+              linear-gradient(to right, darkblue, darkorchid) border-box;
+  border-radius: 50em;
+  border: 4px solid transparent;
+  padding: 0.5em 1.5em;
+  color: darkblue;
+}
+
+</style>
+
 <div id="cruise_deals">
   <div class="container">
     <div class="row">
@@ -26,8 +39,8 @@
       and unforgettable island adventures.
     </div>
 
-    <div style="display: flex; justify-content: flex-end; align-items: center; margin-top: 10px;">
-      <a href="#" style="color: blue; text-decoration: underline;">Book Now</a>
+    <div  style="display: flex; justify-content: flex-end; align-items: center; margin-top: 10px;">
+      <a href="#" class="btn-gradient-2"  >Book Now</a>
     </div>
   </div>
 </div>
@@ -50,7 +63,7 @@
     </div>
 
     <div style="display:flex; justify-content:flex-end; align-items:center; margin-top: 10px;">
-      <a href="#" style="color:blue; text-decoration: underline;">Book Now</a>
+      <a href="#"  class="btn-gradient-2" >Book Now</a>
     </div>
   </div>
 </div>
@@ -74,7 +87,7 @@
     </div>
 
     <div style="display:flex; justify-content:flex-end; align-items:center; margin-top: 10px;">
-      <a href="#" style="color:blue; text-decoration: underline;">Book Now</a>
+      <a href="#"  class="btn-gradient-2" >Book Now</a>
     </div>
   </div>
 </div>

@@ -1,3 +1,17 @@
+<style>
+
+.btn-gradient-2 {
+  background: linear-gradient(white, white) padding-box,
+              linear-gradient(to right, darkblue, darkorchid) border-box;
+  border-radius: 50em;
+  border: 4px solid transparent;
+  padding: 0.5em 1.5em;
+  color: darkblue;
+}
+
+</style>
+
+
 <div id="cruise_deals">
   <div class="container">
     <div class="row">
@@ -27,7 +41,7 @@
     </div>
 
     <div style="display:flex;justify-content:flex-end;align-items:center;">
-      <a href="#" style="color:blue;">Book Now</a>
+      <a href="#" class="btn-gradient-2">Book Now</a>
     </div>
   </div>
 </div>
@@ -55,7 +69,7 @@ border-radius: 8px;   ">
       </div>
 
       <div style="display:flex;justify-content:flex-end;align-items:center;">
-        <a href="#" style="color:blue;">Book Now</a>
+        <a href="#"  class="btn-gradient-2">Book Now</a>
       </div>
     </div>
   </div>
@@ -79,7 +93,7 @@ border-radius: 8px;   ">
     </div>
 
     <div style="display:flex;justify-content:flex-end;align-items:center;">
-      <a href="#" style="color:blue;">Book Now</a>
+      <a href="#" class="btn-gradient-2">Book Now</a>
     </div>
   </div>
 </div>
