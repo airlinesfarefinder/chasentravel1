@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <div class="head">
-                    <h3>Baggage Guidelines & Travel Services</h3>
-                    <p>Discover how Amex Travel Reservations helps you bring the items you need while ensuring a smooth, enjoyable journey. Review our policies to pack smart and travel stress-free.</p>
+                <div class="head" style="color:#000000 !important;" >
+                    <h3 style="color:#000000 !important;" >Baggage Guidelines & Travel Services</h3>
+                    <p style="color:#000000 !important;" >Discover how Chase N Travel helps you bring the items you need while ensuring a smooth, enjoyable journey. Review our policies to pack smart and travel stress-free.</p>
                 </div>
             </div>
         </div>
@@ -15,7 +15,7 @@
         <div class="policy_content">
             <div class="col-md-10 col-md-offset-1">
                 <div class="intro-text">
-                    <p>For trips involving Thruway Services within the 7000 and 8000 series, baggage policies are determined by our partner carriers and may differ from Amex Travel Reservations’ standard guidelines.</p>
+                    <p>For trips involving Thruway Services within the 7000 and 8000 series, baggage policies are determined by our partner carriers and may differ from Chase N Travel’ standard guidelines.</p>
                 </div>
 
                 <div class="section">
@@ -116,9 +116,9 @@
 
                 <div class="section">
                     <h2>Contact Us</h2>
-                    <p>If you have questions about our baggage policy or require travel support, please visit the <a href="/contact">Contact Us</a> page on <a href="<?php echo config('domain_name') ?>">amextravelreservations.com</a>.</p>
+                    <p>If you have questions about our baggage policy or require travel support, please visit the <a href="/contact">Contact Us</a> page on <a href="<?php echo config('domain_name') ?>">chasentravel.com</a>.</p>
 
-                    <p><strong>Amex Travel Reservations<br>
+                    <p><strong>Chase N Travel<br>
                             <?php echo config('address') ?></p>
                 </div>
 

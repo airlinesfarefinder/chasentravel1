@@ -11,7 +11,7 @@
                     </div>
                     <div class="intro first">
                         <p>
-                          Reserve your flights effortlessly with The Royal Travel.
+                          Reserve your flights effortlessly with Chase N Travel.
                             Experience seamless booking with trusted partners, ensuring your journey starts right.
                         </p>
                     </div>

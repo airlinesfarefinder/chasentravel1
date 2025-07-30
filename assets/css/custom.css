@@ -1228,7 +1228,7 @@ margin-top: 25rem;
 
 #small_banner::before {
   content: "";
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0;
   width: 100%;
@@ -1241,7 +1241,7 @@ margin-top: 25rem;
 
 #small_banner::after {
   content: "";
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0%;
   width: 100%;
@@ -1297,8 +1297,8 @@ margin-top: 25rem;
   position: relative;
   display: block;
   width: 100%;
-  padding-top: 95px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 0px;
 }
 
 #about_page .infobox_big .item {

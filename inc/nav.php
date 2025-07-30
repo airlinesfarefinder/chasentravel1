@@ -32,6 +32,11 @@
                                             Cruise
                                         </a>
                                     </li>
+                                      <li>
+                                        <a href="car-rental.php">
+                                           Car Rental
+                                        </a>
+                                    </li>
 
 
                                     <li>

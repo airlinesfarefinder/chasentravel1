@@ -22,6 +22,7 @@ include 'inc/head.php';
     include 'inc/cruise/cruise_deals.php';
     // include 'inc/cruise/packages.php';
     include 'inc/cruise/about.php';
+            include 'inc/cruise/review.php';
     include 'inc/footer.php';
     include 'inc/scripts.php';
     ?>

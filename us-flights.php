@@ -21,6 +21,7 @@ include 'inc/head.php';
     include 'inc/flight/last-minute-deals.php';
     include 'inc/home/packages.php';
     include 'inc/home/about.php';
+            include 'inc/home/review.php';
     include 'inc/footer.php';
     include 'inc/scripts.php';
     ?>

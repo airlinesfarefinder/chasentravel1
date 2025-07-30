@@ -345,14 +345,25 @@ $flightData = [
 ?>
 
 <div id="top_flights">
+
+
+ <!-- <div class="container">
+        <div class="row">
+            <div class="heading">
+                <h3>Top Airfare Offers</h3>
+                <p>Explore unbeatable travel prices to global destinations and save more on every booking.</p>
+            </div>
+        </div>
+    </div> -->
+
     <div class="container">
         <div class="row">
-            <div class="col-sm-7">
+            <!-- <div class="col-sm-7"> -->
                 <div class="heading">
                     <h3>Top Flight Routes</h3>
                     <p>Discover a variety of stunning destinations at unbeatable prices for both domestic and international flights.</p>
                 </div>
-            </div>
+            <!-- </div> -->
         </div>
         <div class="row">
             <ul id="countries_tabs" class="countries clearfix">
