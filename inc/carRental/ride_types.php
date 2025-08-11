@@ -15,7 +15,7 @@
             <div
               class="bg"
               style="
-                background-image: url('images/carRental/g:\chasentravel1\images\carRental\Seasonal_Content_Images_cadillac_usa.webp.webp');
+                background-image: url('images/carRental/g:\chasentravel1\images\carRental\Seasonal_Content_Images_cadillac_usa.webp');
               "
             ></div>
             <p>
