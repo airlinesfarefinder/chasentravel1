@@ -15,7 +15,7 @@
             <div
               class="bg"
               style="
-                background-image: url('images/carRental/a1.jpeg');
+                background-image: url('images/carRental/a1.jpg');
               "
             ></div>
             <p>
